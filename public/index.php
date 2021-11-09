@@ -1,5 +1,5 @@
 <?php
-
+//测试用
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
